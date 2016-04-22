@@ -6,6 +6,8 @@ public class GitHome {
 		System.out.println("123123");
 		
 		System.out.println("2323234");
+		System.out.println("1234");
+		
 	}
 	
 }
